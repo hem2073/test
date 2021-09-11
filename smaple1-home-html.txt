@@ -1,0 +1,37 @@
+<section id="section1">
+      <div class="div1"><font color="orange" size="
+        6"><p align=" left" style="border-bottom: 1px solid black;width:500px; margin-left:80px ; ">COLLEGE WITH DIFFERENCE </p></font>
+    <p align="left" style="margin: 0px 70px;">Arniko college is the one of the deserving colleges forthe students to pursue their secondary education with maximum satisfaction and gurantee.However we defined our college with<font color="green" size="5">"A COLLEGE WITH A DIFFERENCE"</font> because we indeed  aim to make a difference by-
+      <ul>
+        <li>Adequate guidance for intellectual and academic growth</li>
+        <li>Providing a team of teachers from sun rise to sunset for consulaion</li>
+        <li>Arranging substitute classes in case of disturbance</li>
+        <li>Creating science environment inside the college premises</li>
+        <li>Being in closer contact with the guardians by 'home visit programme'</li>
+        <li>Providing a secure yet challenging learning and social environmet</li>
+      </ul>
+      <p align="center" class="more1"><a href="#">READ MORE</a></p>
+
+
+
+
+      </div>
+      
+      <div class="div3"><font size="6" color="orange"><p style="margin:0 20px; border-bottom: 1px solid black; width: 240px;">INTRODUCTION</p></style></font>
+        <p align="left" > Arniko Higher secondary school runs a '+2 programme' in the stream of science on Biratnagar-13, which is managed by a group of highly experienced team of educational proffesionals. It is committed to serving students of diverse backgrounds who really seek a quality science education in Nepal.'Arniko +2' aims for the the total personality development of the students. There is balance between sporting and non-sporting activities.
+          <p class="more"><a href="#"> READ MORE</a></p>
+
+
+
+
+       
+
+
+
+
+
+
+
+      <div style="clear: both;"></div>
+
+    </section>
